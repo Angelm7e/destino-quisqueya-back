@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Projects\\destino_quisqueya_back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\DBontext\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:destino_quisqueya_data\\DBontext\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\migrations\\20251113184725_misd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:migrations\\20251113184725_misd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\migrations\\20251113184419_fisrtmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:migrations\\20251113184419_fisrtmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\dbontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:dbontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\MODELS\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:destino_quisqueya_data\\MODELS\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:destino_quisqueya_data\\destino_quisqueya_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:destino_quisqueya_core\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFD79D-1FE2-40E9-A3F2-B49C04B984E8}|destino_quisqueya_back.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,76 +50,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\MODELS\\User.cs",
-              "RelativeDocumentMoniker": "destino_quisqueya_data\\MODELS\\User.cs",
-              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\MODELS\\User.cs",
-              "RelativeToolTip": "destino_quisqueya_data\\MODELS\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:36:06.314Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "RelativeToolTip": "destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:34:18.81Z",
+              "WhenOpened": "2025-11-13T19:48:58.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "destino_quisqueya_data.csproj",
-              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj",
-              "RelativeDocumentMoniker": "destino_quisqueya_data\\destino_quisqueya_data.csproj",
-              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj",
-              "RelativeToolTip": "destino_quisqueya_data\\destino_quisqueya_data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T19:34:11.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\Class1.cs",
-              "RelativeDocumentMoniker": "destino_quisqueya_core\\Class1.cs",
-              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\Class1.cs",
-              "RelativeToolTip": "destino_quisqueya_core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20251113184725_misd.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\Migrations\\20251113184725_misd.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251113184725_misd.Designer.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\Migrations\\20251113184725_misd.Designer.cs*",
+              "RelativeToolTip": "Migrations\\20251113184725_misd.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:33:05.346Z"
+              "WhenOpened": "2025-11-13T19:48:54.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Title": "20251113184419_fisrtMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\Migrations\\20251113184419_fisrtMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251113184419_fisrtMigration.Designer.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\Migrations\\20251113184419_fisrtMigration.Designer.cs*",
+              "RelativeToolTip": "Migrations\\20251113184419_fisrtMigration.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:11:51.271Z"
+              "WhenOpened": "2025-11-13T19:48:47.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Projects\\destino_quisqueya_back\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:11:15.621Z"
+              "WhenOpened": "2025-11-13T19:48:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\MODELS\\User.cs",
+              "RelativeDocumentMoniker": "MODELS\\User.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\MODELS\\User.cs",
+              "RelativeToolTip": "MODELS\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:46:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\DBontext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DBontext\\AppDBContext.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\DBontext\\AppDBContext.cs",
+              "RelativeToolTip": "DBontext\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:45:40.799Z",
+              "EditorCaption": ""
             }
           ]
         }
