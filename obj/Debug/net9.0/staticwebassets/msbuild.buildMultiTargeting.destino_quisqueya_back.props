@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\destino_quisqueya_back.props" />
+</Project>
