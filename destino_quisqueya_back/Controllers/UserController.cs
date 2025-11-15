@@ -6,7 +6,7 @@ namespace destino_quisqueya_back.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class UserController : Controller
+    public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
         public UserController(IUserService userService)
@@ -16,7 +16,7 @@ namespace destino_quisqueya_back.Controllers
 
         [HttpGet]
         
-        public async Task<IEnumerable<User>> GetUsers()
+        public async Iac GetUsers()
         {
             try
             {

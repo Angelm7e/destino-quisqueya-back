@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("destino_quisqueya_data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9358e6d5dc2cb6607f6ba889722b49718dea2b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("destino_quisqueya_data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("destino_quisqueya_data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

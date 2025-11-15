@@ -10,3 +10,16 @@ C:\Projects\test\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.
 C:\Projects\test\destino_quisqueya_data\obj\Debug\net9.0\refint\destino_quisqueya_data.dll
 C:\Projects\test\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.pdb
 C:\Projects\test\destino_quisqueya_data\obj\Debug\net9.0\ref\destino_quisqueya_data.dll
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\bin\Debug\net9.0\destino_quisqueya_data.deps.json
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\bin\Debug\net9.0\destino_quisqueya_data.dll
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\bin\Debug\net9.0\destino_quisqueya_data.pdb
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.csproj.AssemblyReference.cache
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.AssemblyInfoInputs.cache
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.AssemblyInfo.cs
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.csproj.CoreCompileInputs.cache
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.sourcelink.json
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.dll
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\refint\destino_quisqueya_data.dll
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\destino_quisqueya_data.pdb
+C:\Projects\destino_quisqueya_back\destino_quisqueya_data\obj\Debug\net9.0\ref\destino_quisqueya_data.dll

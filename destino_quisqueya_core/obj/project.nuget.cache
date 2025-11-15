@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O6wG8xISmPA=",
+  "dgSpecHash": "S7wQF5MJBSU=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
+  "projectFilePath": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aencarnacion\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\aencarnacion\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zupKaNucAC0=",
+  "dgSpecHash": "Etxm9baBs3M=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\test\\destino_quisqueya_back\\destino_quisqueya_back.csproj",
+  "projectFilePath": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\destino_quisqueya_back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aencarnacion\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\aencarnacion\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

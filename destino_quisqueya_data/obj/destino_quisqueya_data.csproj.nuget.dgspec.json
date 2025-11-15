@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\test\\destino_quisqueya_data\\destino_quisqueya_data.csproj": {}
+    "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\test\\destino_quisqueya_data\\destino_quisqueya_data.csproj": {
+    "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\test\\destino_quisqueya_data\\destino_quisqueya_data.csproj",
+        "projectUniqueName": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj",
         "projectName": "destino_quisqueya_data",
-        "projectPath": "C:\\Projects\\test\\destino_quisqueya_data\\destino_quisqueya_data.csproj",
+        "projectPath": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\destino_quisqueya_data.csproj",
         "packagesPath": "C:\\Users\\aencarnacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\test\\destino_quisqueya_data\\obj\\",
+        "outputPath": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

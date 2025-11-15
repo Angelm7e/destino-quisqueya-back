@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "destino_quisqueya_back.Controllers.AuthController",
+    "Method": "LogIn",
+    "RelativePath": "Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "destino_quisqueya_data.DTO.logInDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "destino_quisqueya_back.Controllers.UserController",
     "Method": "GetUsers",
     "RelativePath": "User",

@@ -21,6 +21,9 @@ opciones.UseSqlServer("name=DefaultConnection"));
 builder.Services.AddTransient<IUserRepository, UserRepository>();
 builder.Services.AddTransient<IUserService, UserServices>();
 
+builder.Services.AddTransient<IAuthRepository, AuthRepository>();
+builder.Services.AddTransient<IAuthService, AuthServices>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -9,11 +9,11 @@ using destino_quisqueya_back._0.DBontext;
 
 #nullable disable
 
-namespace destino_quisqueya_back.Migrations
+namespace destino_quisqueya_data.Migrations
 {
     [DbContext(typeof(AppDBContext))]
-    [Migration("20251113184419_fisrtMigration")]
-    partial class fisrtMigration
+    [Migration("20251113205121_sdfsd")]
+    partial class sdfsd
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -31,7 +31,23 @@ namespace destino_quisqueya_back.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<string>("email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("lastName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("phoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

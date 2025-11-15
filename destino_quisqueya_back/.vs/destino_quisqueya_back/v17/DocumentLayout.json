@@ -1,48 +1,63 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\test\\destino_quisqueya_back\\",
+  "WorkspaceRootPath": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\test\\destino_quisqueya_data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|c:\\projects\\test\\destino_quisqueya_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|c:\\projects\\test\\destino_quisqueya_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_back\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_back\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D41D292-7A80-4F3F-B95E-82D2D3C890EC}|..\\destino_quisqueya_core\\destino_quisqueya_core.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_core\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_data\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_data\\contract\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D41D292-7A80-4F3F-B95E-82D2D3C890EC}|..\\destino_quisqueya_core\\destino_quisqueya_core.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_core\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\destino_quisqueya_back\\destino_quisqueya_data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_data\\MODELS\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D41D292-7A80-4F3F-B95E-82D2D3C890EC}|..\\destino_quisqueya_core\\destino_quisqueya_core.csproj|c:\\projects\\test\\destino_quisqueya_core\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D41D292-7A80-4F3F-B95E-82D2D3C890EC}|..\\destino_quisqueya_core\\destino_quisqueya_core.csproj|c:\\projects\\test\\destino_quisqueya_core\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\test\\destino_quisqueya_data\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\test\\destino_quisqueya_data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A677AB0F-7FBB-46C6-B5D4-BDEEACEA8044}|..\\destino_quisqueya_data\\destino_quisqueya_data.csproj|c:\\projects\\test\\destino_quisqueya_data\\dbontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D41D292-7A80-4F3F-B95E-82D2D3C890EC}|..\\destino_quisqueya_core\\destino_quisqueya_core.csproj|c:\\projects\\test\\destino_quisqueya_core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D41D292-7A80-4F3F-B95E-82D2D3C890EC}|..\\destino_quisqueya_core\\destino_quisqueya_core.csproj|c:\\projects\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|c:\\projects\\test\\destino_quisqueya_back\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4807737C-58EB-42EB-ACBF-1E14382EAE12}|destino_quisqueya_back.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_core\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +67,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,169 +83,221 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\MODELS\\User.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\MODELS\\User.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\MODELS\\User.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_data\\MODELS\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "logInDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\DTO\\logInDTO.cs",
+              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\DTO\\logInDTO.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\DTO\\logInDTO.cs",
+              "RelativeToolTip": "..\\destino_quisqueya_data\\DTO\\logInDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:41:54.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:58:04.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20251113203152_eerw.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\SERVICES\\AuthServices.cs",
+              "RelativeDocumentMoniker": "..\\destino_quisqueya_core\\SERVICES\\AuthServices.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\SERVICES\\AuthServices.cs",
+              "RelativeToolTip": "..\\destino_quisqueya_core\\SERVICES\\AuthServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:31:53.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:56:35.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\INTERFACE\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\destino_quisqueya_core\\INTERFACE\\IAuthService.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_core\\INTERFACE\\IAuthService.cs",
+              "RelativeToolTip": "..\\destino_quisqueya_core\\INTERFACE\\IAuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:29:54.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:25:53.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:06:54.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20251113200119_sdsd.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:01:19.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_back\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_back\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:59:08.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:55:51.902Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_back\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_back\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T19:55:21.601Z",
+              "WhenOpened": "2025-11-13T20:54:22.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_back\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_back\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-13T19:58:14.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\REPOSITORY\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\REPOSITORY\\AuthRepository.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\REPOSITORY\\AuthRepository.cs",
+              "RelativeToolTip": "..\\destino_quisqueya_data\\REPOSITORY\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:07:41.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T21:00:24.066Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\MODELS\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_data\\MODELS\\User.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\MODELS\\User.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_data\\MODELS\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:26:12.092Z",
+              "WhenOpened": "2025-11-13T20:41:54.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_back\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:59:08.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\CONTRACT\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "..\\destino_quisqueya_data\\CONTRACT\\IAuthRepository.cs",
+              "ToolTip": "C:\\Projects\\destino_quisqueya_back\\destino_quisqueya_data\\CONTRACT\\IAuthRepository.cs",
+              "RelativeToolTip": "..\\destino_quisqueya_data\\CONTRACT\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:59:52.11Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20251113203152_eerw.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_data\\Migrations\\20251113203152_eerw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:31:53.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_data\\CONTRACT\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:29:54.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_data\\REPOSITORY\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:25:53.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_core\\INTERFACE\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:06:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251113200119_sdsd.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_data\\Migrations\\20251113200119_sdsd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:01:19.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_core\\SERVICES\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:07:41.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
+              "ToolTip": "C:\\Projects\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_data\\DBontext\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:26:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_core\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_core\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_core\\Class1.cs",
               "ToolTip": "C:\\Projects\\test\\destino_quisqueya_core\\Class1.cs",
-              "RelativeToolTip": "..\\destino_quisqueya_core\\Class1.cs",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_core\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T19:53:21.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "destino_quisqueya_core.csproj",
               "DocumentMoniker": "C:\\Projects\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
-              "RelativeDocumentMoniker": "..\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
+              "RelativeDocumentMoniker": "..\\..\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
               "ToolTip": "C:\\Projects\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
-              "RelativeToolTip": "..\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
+              "RelativeToolTip": "..\\..\\test\\destino_quisqueya_core\\destino_quisqueya_core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T20:04:26.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:04:26.797Z"
             }
           ]
         }
